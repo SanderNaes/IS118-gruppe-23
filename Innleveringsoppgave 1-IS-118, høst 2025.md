@@ -1,10 +1,10 @@
-#Proaktive mekanismer for konflikthåndtering#
+## Proaktive mekanismer for konflikthåndtering 
 
-###Innledning###
+### Innledning 
 
 Utdanning, oppvekst og arbeidserfaring plasserer individed på et unikt ståsted, noe som gjør at mennsker fortolker ting på forskjellige måter. Det vil alltid oppstå noe uventet og da det er forskjelligheter fra person til person, oppfatter en av disse hendelsesene annerledes, noe som kan skape uenighet og usikkerhet blant hverandre. Uenigheten kan lede til konflikt, noe som er lite hyggelig, men noe de fleste proskjekter kommer til å møte på. Konfilkter er altså det normale. Det er viktig under proskjektarbeid at konflikter håndteres så tidlig som mulig og under er ulike strategier for dette (s. 57-58).
 
-###Identifisere###
+### Identifisere
 
 For å unngå en konflikt må en vite årsaker til konflikter. Her er fire forskjellige årsaker hvor konflikt kan oppstå tatt fra Engangsorganisasjonen av Dag Ingvar Jacobsen. (s. 59-60)
 1. Latent konflikt, er årsaker som ligger under og er lite synlige, men kan bli aktivert i ulike sitasjoner. For eksempel oppfatter en samme oppgave på ulike måter, og ved uenighet mellom to personer kan konflikt komme frem. Den latente konfliken ligger innenfor alle grupper og regnes som en forutsetning.
@@ -17,7 +17,7 @@ Heterogenitet, som er et prosjekt sammensatt av mennesker fra forskjellige organ
 
 Personkonflikter reduserer samholdet mellom grupper og tilliten. Dette kan skape prosjekter som ikke blir gjennomført eller dårlige. Flere proskjekter har også positive effekter av konflikter. Det er høyst sannsynlig at en konfilkt oppstår så man bør lære å håndtere dem (s. 65-66). 
 
-###Konflikthåndtering###
+### Konflikthåndtering
 
 En bør skille personkonflikt fra sakskonflikter. Følelsesmessige elementer vil gjøre det vanskelig å gjøre en objektiv analyse av problemet. Jo tidligere en gruppe er i stand til å løse sakskonflikter, desto større aksept blir det for å håndtere uenigheter i fremtiden. Tidlig konflikt kan altså forbedre gruppen, helst før de blir manifeste. (s. 66-67)
 
