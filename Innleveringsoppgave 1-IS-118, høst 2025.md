@@ -1,3 +1,4 @@
+
 # Innleveringsoppgave 1- IS-118, høst 2025
 ## Strategi for rekruttering og sammensetning
 Når en prosjektleder må bygge et team så må dem bygge et team kjapt for å få til prosjektet sitt. Prosjektene har en tidsbegrensning så det er kritisk å finne folkene man trenger i løpet av en kort periode. Dette er ekstremt viktig siden prosjektet kan ikke starte før han har grunnlaget for hele oppsettet for prosjektet sitt. Som nevnt i oppgaven så har Erling fått en gruppe som består av: Kommunal administrasjon, politisk ledelse, fag spesialister og brukerrepresentanter. Vi har da et utgangspunkt for en startpakke en prosjektleder kan starte med. 
@@ -19,17 +20,20 @@ Integrasjon rollen må gå til noen som er flink med å snakke med folk og bring
 
 Et prosjekt trenger en person med entreprenørskap egenskaper. Det demografiske her kan være variert. Men trekket en person har må være klare. De må være innovative og motiverte. De må være gode på problemløsninger og være der når det oppstår problemer. Her er det ofte folk i 30 årene som er best, men alle aldere kan ha disse egenskapene. Her burde prosjektleder intervjue alle teamarbeidene etter ansettelse også sette den som virker mest kvalifisert for entreprenørskap i den rollen.
 
-
-
-
-
-
-
-
-
 ## Design av "det første møtet"
 For å starte første møtet er det viktig for alle gruppemedlemmene å vite hvem de andre medelemmene er, så først på agendaen er en introduskjon som inkluderer navn og hva de jobber med slik at resten av medlemmene kan forstå hva hvert medlems oppgave er når prosjektet blir introdusert. Selv om hvert medlem har fått vite hva oppgaven går ut på når de valgte å ta oppdraget så er det fint å reintrodusere det tidlig i første møte slik at alle får en refresher på detaljer og kan tenke seg om hva egen og andres rolle er. For noen av rollene, slik som byggesaksavdeling representanten, er det ikke nødvendigvis helt klart for alle de andre hva dem er ment til å tilføre prosjektet, så Erling burde si konkret og i plenum hva deres oppgave er.
 
 Etter introduskjon av medlemmene og oppdrag er det viktig at alle får felles forståelse av mål og begrensinger, så medlemmene får mingle slik at, for eskempel, UI designeren kan snakke med IT- og byggesaksavdeling representantene om hva som er realistisk design innenfor både tids- og budsjettsgrenser. Slik mingling fremmer og kjennskap, som vil lede til enklere lagarbeid i fremtiden. Det er viktig at Erling og går rundt og blir med i samtaler slik at det blir lettere og mer naturlig for medlemmene å spørre han om både konkrete mål og oppgaver, samt mer vage mål eller spesifikke deler av personlige oppgaver. Denne minglingen vil antakelig vis gjøre hvert medlem tryggere på å spørre medlemmer som jobber i annen sektor om innslag på ideer, implementasjon eller liknende.
 
 Mot slutten av møtet, eller under minglingen om det er naturlig så skal Erling gi hvert medlem en arbeidsoppgave for å jobbe med frem til neste møte. UI/UX designer skal drøfte opp et antall realistiske design for portalen, og bør derfor oppfordres å jobbe tett med IT-avdelingsrepresentanten og brukerrepresentantene for å sikre at design drøftene er realistiske og brukbare. Dette er nok den største jobben til å starte med, og andre medlemmer har sikkert og relevante innslag slik som sikkerhetseksperten kan gi gode råd om han ser noe som lett kan lede til sikkerhetsproblemer med designet.
+
+
+## Retningslinjer for rasjonelle kontrakter (Punkt 3)
+
+Når en jobb skal fullføres, er det svært viktig at alle parter er enige, spesielt når det er store pengesummer involvert. En god måte å sikre at alle parter vet hva som forventes av dem, er en kontrakt. Når alle parter har signert kontrakten, bør alle være klar over sine oppgaver, frister, budsjett og målene prosjektet skal oppnå. Prosjektet har allerede fått tildelt et budsjett, et mål og en frist, men kontrakten bør også omfatte hva som skjer hvis prosjekt eier mener at målet ikke er oppnådd, eller hvis budsjettet/tidsrammen blir urealistisk å oppnå.
+
+Det er også viktig å legge ned rammer som sikrer at tid og penger blir brukt på en rimelig måte. Et eksempel på dårlig ressursfordeling er at prosjektlederen får halvparten av budsjettet i lønn, slik at han ikke lenger har råd til å ansette kvalifiserte medarbeidere til prosjektet. Det er også viktig at tiden brukes effektivt. Det kan være en god ide å tildele en del av budsjettet til teambuilding, grunnen til dette er at folk jobber bedre når de føler seg komfortable med kollegaene sine. Kontrakten bør inneholde retningslinjer som kan følges hvis arbeidstakerne føler seg urettferdig behandlet eller føler at de ikke får prestert på best mulig måte. Dette vil bidra til at arbeiderne jobber mest mulig effektivt..
+
+En annen viktig del av kontrakten bør handle om hvordan folk skal behandle hverandre, hvordan konflikter skal håndteres og hvem man skal kontakte hvis konflikter ikke kan løses av de involverte partene. Det er utrolig viktig at arbeidstakerne føler seg inkludert og blir behandlet på en måte som gjør dem tilfreds. En studie fra Oxford Business School har kommet til den konklusjonen at «glade arbeidstakere er 13 % mer effektive». Dette bidrar både til å spare penger og til å nå frister i tide, noe som gjør prosjekteieren fornøyd. Det kan også bli problematisk for prosjektet hvis arbeidstakerne begynner å bli syke, så det er viktig å skape et miljø hvor arbeidstakerne kan utføre arbeidet på en sunn måte, og dette starter med kontrakten. 
+
+Kontrakten må også fastsette en måte for prosjektlederen å oppdatere prosjekteieren om progresjonen og hva som har blitt gjort. Et eksempel på dette kan være ukentlige rapporter eller møter hvor prosjektlederen kan forklare hva som er gjort den siste uken, og om de ligger an til å fullføre innen fristene. For at prosjektlederen skal kunne lede og videre rapportere til prosjekteier på best mulig måte, kan det også være en fordel å be alle arbeidere om å levere ukentlige rapporter eller delta på møter hvor de forklarer hva som er gjort den siste uken, og kommer med ideer til hva som kan gjøres bedre, samt problemer som må løses. Dette kan også bidra til at arbeiderne føler seg satt pris på, som en viktig del av teamet, og vil bidra til å skape et godt og produktivt arbeidsmiljø.
