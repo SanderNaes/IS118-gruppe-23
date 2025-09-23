@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 ## Design av "det første møtet"
 For å starte første møtet er det viktig for alle gruppemedlemmene å vite hvem de andre medelemmene er, så først på agendaen er en introduskjon som inkluderer navn og hva de jobber med slik at resten av medlemmene kan forstå hva hvert medlems oppgave er når prosjektet blir introdusert. Selv om hvert medlem har fått vite hva oppgaven går ut på når de valgte å ta oppdraget så er det fint å reintrodusere det tidlig i første møte slik at alle får en refresher på detaljer og kan tenke seg om hva egen og andres rolle er. For noen av rollene, slik som byggesaksavdeling representanten, er det ikke nødvendigvis helt klart for alle de andre hva dem er ment til å tilføre prosjektet, så Erling burde si konkret og i plenum hva deres oppgave er.
 
