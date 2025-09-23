@@ -14,3 +14,14 @@ Disse punktene blir mer synlige og intense etterhvert som det går, men det er o
 Heterogenitet, som er et prosjekt sammensatt av mennesker fra forskjellige organisasjoner, offentlig eller privat. Noe som øker sansynligheten for ulike synspunkter. Sterkt resultatfokus, det skal leveres et resultat som gruppen arbeider sammen om. Manglende kjennskap og tillit, er hvor medlemmene ikke kjenner hverandre, noe som kan raskere kan skape negative uttaler om individer. Og tidspress, hvor gruppen vil føle tidspresset som kan skape intensitett om å ville komme i mål (s. 61-62).
 
 Personkonflikter reduserer samholdet mellom grupper og tilliten. Dette kan skape prosjekter som ikke blir gjennomført eller dårlige. Flere proskjekter har også positive effekter av konflikter. Det er høyst sannsynlig at en konfilkt oppstår så man bør lære å håndtere dem (s. 65-66). 
+
+**Konflikthåndtering**
+
+En bør skille personkonflikt fra sakskonflikter. Følelsesmessige elementer vil gjøre det vanskelig å gjøre en objektiv analyse av problemet. Jo tidligere en gruppe er i stand til å løse sakskonflikter, desto større aksept blir det for å håndtere uenigheter i fremtiden. Tidlig konflikt kan altså forbedre gruppen, helst før de blir manifeste. (s. 66-67)
+
+Her vises noen konkrete strategier til konfilkthåndtering.
+1. Problemløsning er en strategi hvor en forsøker å finne årsaken og å analysere den for å se om det finnes en løsning som er god for alle parter.
+2. Ettergivenhet, er en strategi hvor en person gir opp å forsøke å kjempe for sine synspunkter, da det ikke går en positiv vei.
+3. Kompromiss, er en strategi hvor partene gir og tar. En ender med en løsning som begge både er litt fornøyd og misfornøyd.
+4. Unngåelse, er en strategi der en skyver konflikten under teppet, og en utsetter å håndtere den til senere.
+Disse strategiene har sterke og svake sider, men kan hjelpe med å avgjøre uenigheter tidlig i et prosjekt. (s.67)
