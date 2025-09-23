@@ -1,5 +1,5 @@
-## Strategi for rekruttering og sammensetning
 # Innleveringsoppgave 1- IS-118, høst 2025
+## Strategi for rekruttering og sammensetning
 Når en prosjektleder må bygge et team så må dem bygge et team kjapt for å få til prosjektet sitt. Prosjektene har en tidsbegrensning så det er kritisk å finne folkene man trenger i løpet av en kort periode. Dette er ekstremt viktig siden prosjektet kan ikke starte før han har grunnlaget for hele oppsettet for prosjektet sitt. Som nevnt i oppgaven så har Erling fått en gruppe som består av: Kommunal administrasjon, politisk ledelse, fag spesialister og brukerrepresentanter. Vi har da et utgangspunkt for en startpakke en prosjektleder kan starte med. 
 
 Å planlegge tidlig er mest kritisk for visse grunner. Man reduserer risikoen for konflikter mellom teamet siden alle får en klar ide av prosjektet tidlig. Man skaper også tidlige relasjoner så det kan øke effektiviteten og lagmoralen som hjelper når man skal jobbe sammen lenge på et prosjekt. I tillegg så bygger det tillit hos brukere med å vite at det er et ordentlig team som har jobbet sammen og fått til et prosjekt.
