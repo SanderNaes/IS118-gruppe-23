@@ -28,7 +28,7 @@ Etter introduskjon av medlemmene og oppdrag er det viktig at alle får felles fo
 Mot slutten av møtet, eller under minglingen om det er naturlig så skal Erling gi hvert medlem en arbeidsoppgave for å jobbe med frem til neste møte. UI/UX designer skal drøfte opp et antall realistiske design for portalen, og bør derfor oppfordres å jobbe tett med IT-avdelingsrepresentanten og brukerrepresentantene for å sikre at design drøftene er realistiske og brukbare. Dette er nok den største jobben til å starte med, og andre medlemmer har sikkert og relevante innslag slik som sikkerhetseksperten kan gi gode råd om han ser noe som lett kan lede til sikkerhetsproblemer med designet.
 
 
-## Retningslinjer for rasjonelle kontrakter (Punkt 3)
+## Retningslinjer for rasjonelle kontrakter
 
 Når en jobb skal fullføres, er det svært viktig at alle parter er enige, spesielt når det er store pengesummer involvert. En god måte å sikre at alle parter vet hva som forventes av dem, er en kontrakt. Når alle parter har signert kontrakten, bør alle være klar over sine oppgaver, frister, budsjett og målene prosjektet skal oppnå. Prosjektet har allerede fått tildelt et budsjett, et mål og en frist, men kontrakten bør også omfatte hva som skjer hvis prosjekt eier mener at målet ikke er oppnådd, eller hvis budsjettet/tidsrammen blir urealistisk å oppnå.
 
