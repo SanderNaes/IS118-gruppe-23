@@ -24,4 +24,5 @@ Her vises noen konkrete strategier til konfilkthåndtering.
 2. Ettergivenhet, er en strategi hvor en person gir opp å forsøke å kjempe for sine synspunkter, da det ikke går en positiv vei.
 3. Kompromiss, er en strategi hvor partene gir og tar. En ender med en løsning som begge både er litt fornøyd og misfornøyd.
 4. Unngåelse, er en strategi der en skyver konflikten under teppet, og en utsetter å håndtere den til senere.
+
 Disse strategiene har sterke og svake sider, men kan hjelpe med å avgjøre uenigheter tidlig i et prosjekt. (s.67)
