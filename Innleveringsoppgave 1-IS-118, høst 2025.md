@@ -1,2 +1,3 @@
 **Innledning**
+
 Utdanning, oppvekst og arbeidserfaring plasserer individed på et unikt ståsted, noe som gjør at mennsker fortolker ting på forskjellige måter. Det vil alltid oppstå noe uventet og da det er forskjelligheter fra person til person, oppfatter en av disse hendelsesene annerledes, noe som kan skape uenighet og usikkerhet blant hverandre. Uenigheten kan lede til konflikt, noe som er lite hyggelig, men noe de fleste proskjekter kommer til å møte på. Konfilkter er altså det normale. Det er viktig under proskjektarbeid at konflikter håndteres så tidlig som mulig og under er ulike strategier for dette (s. 57-58).
