@@ -5,8 +5,8 @@ Utdanning, oppvekst og arbeidserfaring plasserer individed på et unikt ståsted
 **Identifisere**
 
 For å unngå en konflikt må en vite årsaker til konflikter. Her er fire forskjellige årsaker hvor konflikt kan oppstå tatt fra Engangsorganisasjonen av Dag Ingvar Jacobsen. (s. 59-60)
-1. Latent konflikt, er årsaker som ligger under og er lite synlige, men kan bli aktivert i ulike sitasjoner. For eksempel oppfatter en samme oppgave på ulike måter, og ved uenighet mellom to personer kan konflikt komme frem. Den latente konfliken ligger innenfor alle grupper og regnes som en forutsetning. 
-2.Oppfattet konflikt, aktiveres av en hendelse, der en eller flere parter føler situasjonen som truende. For eksempel at en person vil “ta” noe fra en annen person i gruppen.
+1. Latent konflikt, er årsaker som ligger under og er lite synlige, men kan bli aktivert i ulike sitasjoner. For eksempel oppfatter en samme oppgave på ulike måter, og ved uenighet mellom to personer kan konflikt komme frem. Den latente konfliken ligger innenfor alle grupper og regnes som en forutsetning.
+2. 2.Oppfattet konflikt, aktiveres av en hendelse, der en eller flere parter føler situasjonen som truende. For eksempel at en person vil “ta” noe fra en annen person i gruppen.
 3. Følt konflikt, aktivires gjennom en tydelig hendelse og skaper emosjoner. For eksempel gjennom sterke ord og kjefting.
 4. Manifest konflikt, vises gjennom handlinger og ord, og blir merkbar for andre en de som konflikten angår.
 Disse punktene blir mer synlige og intense etterhvert som det går, men det er også flere forhold som vanligere skaper konflikt:
