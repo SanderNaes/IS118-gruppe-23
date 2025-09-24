@@ -72,11 +72,18 @@ Disse strategiene har sterke og svake sider, men kan hjelpe med å avgjøre ueni
 ## Håndtering av tidspress og "planleggingsfellen" ##
 
 Først er vi nødt til å bryte ned prosjektet og følge ulike trinn med klare mål og frister for hver del slik at vi kan framstå med en god plan i forveien. Dette gjør det mer åpent for hvordan vi går fremover og hjelper med å oppdage og håndtere problemer før de eventuelt oppstår. For eksempel kan milepæler innebære å fullføre brukerundersøkelser, lage brukergrensesnittet og sette opp funksjonene for input og planlegge digitale møter.
+
 Å sette disse viktige målene vil holde laget på riktig spor og Erling må fokusere på nøkkeloppgavene som virkelig vil presse prosjektet fremover. Det er veldig viktig å finne ut hvilke funksjoner som virkelig vil utgjøre en forskjell i å engasjere folk, som å gi dem sjansen til å bli mer involvert i lokale forhold og holde seg oppdatert om hvordan de ulike og forskjellige prosedyrene styres.
+
 Det å takle disse oppgavene på forhånd kan hjelpe med å få prosjektet framover for brukere, og gi dem tidlige fordeler. Å få prosjektgruppen involvert tidlig i planleggingen er viktig ved å få de lokale myndighetene, politikerne, eksperter og vanlige personer som er involvert i de tidlige samtalene, også kan benytte seg av sin kunnskap og erfaring. Dette kan bidra til å sette mer realistiske tidsrammer og gi oss et tydeligere bilde av hvilke utfordringer vi kan møte, pluss å sørge for at portalen er enkel å bruke og faktisk nyttig for menneskene som bor der.
+
 Å være fleksibel med planene sine, er noe en prosjektleder er nødt til å være. Erling kan derfor få god nytte fra teamet og lokalbefolkningen slik at han kan holde seg på toppen med nye ideer og endringer. Dette skaper også et godt forhold ettersom at alle blir sett.
+
 Å være åpen for forandring på det du fokuserer på, og når, avhengig av hva du lærer og blir fortalt, må du finjustere ting basert på hva brukeren sier. Å ha en regelmessig innsjekk er med på å forsikre at man alltid er på riktig spor. På disse møtene skaper man rom for å snakke om de positive, de ikke så positive tingene, og finpusse planen etter behov. Dette fremmer en atmosfære av åpenhet og teamarbeid, noe som er nøkkelen til å få prosjektet gjort riktig. Erling bør ta litt tid å tenke og lære mens de går, slik at teamet kan finne ut hva som fungerer og hva som må finjustere.
-Til slutt, er det viktig å forsikre at det er felles forståelse fra hverandres mål, tidslinje, og forventninger til prosjektet. Dette reduserer derfor sjansen av usikkerhet, forvirring og resultater i en mer effektiv arbeidsplass. Ved å bruke disse strategiene, kan Erling få en balanse mellom å ha en solid plan i tillegg til å være fleksibel nok. Dette vil ikke bare være med å skape en vellykket lansering blant samfunnet, men også engasjere flere innbyggere og opplyse dem mer i beslutningsfasen i ulike prosjekter. 
+
+Til slutt, er det viktig å forsikre at det er felles forståelse fra hverandres mål, tidslinje, og forventninger til prosjektet. Dette reduserer derfor sjansen av usikkerhet, forvirring og resultater i en mer effektiv arbeidsplass. Ved å bruke disse strategiene, kan Erling få en balanse mellom å ha en solid plan i tillegg til å være fleksibel nok. 
+
+Dette vil ikke bare være med å skape en vellykket lansering blant samfunnet, men også engasjere flere innbyggere og opplyse dem mer i beslutningsfasen i ulike prosjekter. 
 Erling kan derfor ikke bare treffe prosjektets mål, men også sette opp en base for et mer involvert og oppkjørt publikum som blir mer involvert i byens beslutninger.
 
 
