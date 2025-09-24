@@ -1,3 +1,3 @@
-# Referanser
+## Referanser
 
 Jacobsen, I. D. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
