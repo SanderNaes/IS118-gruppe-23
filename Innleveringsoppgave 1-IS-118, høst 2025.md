@@ -93,10 +93,3 @@ Det første han bør gjøre er å lage en enkel kommunikasjonsplan som forteller
 
  For å holde oversikt burde det bli brukt digitale samarbeidsverktøy som "slack", slik at oppgaver og fremdrift er synlig for alle, og et felles dokumentarkiv slik at alle har tilgang til oppdatert informasjon. Verktøy som dette gjør det enklere for teamet og samarbeidet selv om de har forskjellige roller eller forskjellige arbeidssteder. I tillegg til dette så er det viktig å avklare roller og ansvar tidlig for å opprettholde god kommunikasjon. Det vil redusere misforståelser og konflikter lengre frem i tid. (Prosjektveiviseren. u.å.) Til slutt er det veldig viktig at prosjektlederen er åpen, tydelig og tilgjengelig. En kultur preget av tillit og gjensidig respekt gjør at folk lettere deler ideer og tørr å si ifra om problemer. God kommunikasjon handler altså ikke bare om å dele informasjon, men også om å bygge relasjoner, tillit og motivasjon i teamet. Dersom Erling klarer å etablere disse rutinene tidlig, vil det gi prosjektet en mye større sjanse til å lykkes, både innenfor tidsramme og budsjett.
 
-## Referanser
-
-Jacobsen, I. D. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
-
-University of Oxford. (2019, 24. oktober). Happy workers are 13% more productive. https://www.ox.ac.uk/news/2019-10-24-happy-workers-are-13-more-productive
-
-Prosjektveiviseren. (u.å.). Kommunikasjon i prosjektledelse. https://www.prosjektveiviseren.no/kommunikasjon-i-prosjektledelse/
