@@ -69,7 +69,7 @@ Her vises noen konkrete strategier til konfilkthåndtering.
 
 Disse strategiene har sterke og svake sider, men kan hjelpe med å avgjøre uenigheter tidlig i et prosjekt. (Jacobsen, 2016, s.67)
 
-## Håndtering av tidspress og "planleggingsfellen" ##
+## Håndtering av tidspress og "planleggingsfellen"
 
 Først er vi nødt til å bryte ned prosjektet og følge ulike trinn med klare mål og frister for hver del slik at vi kan framstå med en god plan i forveien. Dette gjør det mer åpent for hvordan vi går fremover og hjelper med å oppdage og håndtere problemer før de eventuelt oppstår. For eksempel kan milepæler innebære å fullføre brukerundersøkelser, lage brukergrensesnittet og sette opp funksjonene for input og planlegge digitale møter. (Jacobsen, 2016, s.46)
 
@@ -86,10 +86,17 @@ Til slutt, er det viktig å forsikre at det er felles forståelse fra hverandres
 Dette vil ikke bare være med å skape en vellykket lansering blant samfunnet, men også engasjere flere innbyggere og opplyse dem mer i beslutningsfasen i ulike prosjekter. 
 Erling kan derfor ikke bare treffe prosjektets mål, men også sette opp en base for et mer involvert og oppkjørt publikum som blir mer involvert i byens beslutninger.
 
-
-## Sikring av god kommunikasjon ##
+## Sikring av god kommunikasjon
 Når et nytt prosjekt starter opp så er det veldig viktig med god kommunikasjon mellom prosjektledere og teamet. Spesielt i den tidlige fasen Erling er i så kan dette være helt avgjørende. Prosjektet Erling skal lede inneholder et team med forskjellige folk fra forskjellige bransjer som blant annet politikere, fagfolk og innbyggerrepresentanter. Derfor er det ekstra viktig å skape en felles forståelse fra starten av. (Prosjektveiviseren. u.å.)
 
 Det første han bør gjøre er å lage en enkel kommunikasjonsplan som forteller hvilke kommunikasjonskanaler som skal brukes til hva, det kan for eksempel være at e-post brukes til viktige beskjeder, kontakt på telefon brukes til uformelle dialoger, i tillegg så kan han holde faste møter hver uke. Dette fører til at teamet vet hvor de skal finne informasjonen og reduserer sannsynligheten for misforståelser.- (Prosjektveiviseren. u.å.) Erling burde sørge for at alle i gruppa blir enige om felles mål og begreper. Når folk med forskjellig bakgrunn møtes kan språk og fokus være forskjellige, derfor kan det være lurt å ha et oppstartsmøte der folk deler sine forventninger, og sammen lager en tydelig prosjektvisjon som alle forstår. På møtet bør Erling være bevisst på å inkludere alle sammen. Det betyr at han må lytte aktivt og sørge for at alle sammen får sagt noe, og at alle bidrar med noe. Dette gjør at alle sammen i teamet føler seg inkludert og velkommen.
 
  For å holde oversikt burde det bli brukt digitale samarbeidsverktøy som "slack", slik at oppgaver og fremdrift er synlig for alle, og et felles dokumentarkiv slik at alle har tilgang til oppdatert informasjon. Verktøy som dette gjør det enklere for teamet og samarbeidet selv om de har forskjellige roller eller forskjellige arbeidssteder. I tillegg til dette så er det viktig å avklare roller og ansvar tidlig for å opprettholde god kommunikasjon. Det vil redusere misforståelser og konflikter lengre frem i tid. (Prosjektveiviseren. u.å.) Til slutt er det veldig viktig at prosjektlederen er åpen, tydelig og tilgjengelig. En kultur preget av tillit og gjensidig respekt gjør at folk lettere deler ideer og tørr å si ifra om problemer. God kommunikasjon handler altså ikke bare om å dele informasjon, men også om å bygge relasjoner, tillit og motivasjon i teamet. Dersom Erling klarer å etablere disse rutinene tidlig, vil det gi prosjektet en mye større sjanse til å lykkes, både innenfor tidsramme og budsjett.
+
+## Referanser
+
+Jacobsen, I. D. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
+
+University of Oxford. (2019, 24. oktober). Happy workers are 13% more productive. https://www.ox.ac.uk/news/2019-10-24-happy-workers-are-13-more-productive
+
+Prosjektveiviseren. (u.å.). Kommunikasjon i prosjektledelse. https://www.prosjektveiviseren.no/kommunikasjon-i-prosjektledelse/
