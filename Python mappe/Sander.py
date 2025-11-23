@@ -1,6 +1,6 @@
-true = "Evaluatorene er begeistret over prototypen og teamet jobber godt sammen."
-good = "Protoypen ble ferdig, men evaluatorene er ikke så fornøyde som håpt, deler av teamet holder ikke god kommunikasjon."
-bad = "Prototypen ble ikke ferdig i tide og noen sakskonflikter har eskalert til personkonflikter."
+true = "Evaluatorene er begeistret over prototypen og teamet jobber godt sammen. Beste utfall."
+good = "Protoypen ble ferdig, men evaluatorene er ikke så fornøyde som håpt, deler av teamet holder ikke god kommunikasjon. Bra utfall."
+bad = "Prototypen ble ikke ferdig i tide og noen sakskonflikter har eskalert til personkonflikter. Dårlig utfall."
 bad_path = False
 bad_end = False
 
