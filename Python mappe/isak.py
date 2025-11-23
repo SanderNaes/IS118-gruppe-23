@@ -71,7 +71,7 @@ if sak in [("a", "a", "b"), ("b", "a", "b"), ("a", "a", "a")]:
     print ("\n Du håndterte konfliktene på en måte du synes var riktig både individuelt med de i laget og med gruppemøte med laget\n")
 elif sak in [("b", "a", "a")]:
     print ("\n Du håndterte konfliktene på en måte som fikk fram samarbeid og forståelse i laget, mens du også tok i bruk rådgiver for å veilede deg til best mulig valg og løsning for laget. Dette førte til at prosjektet ble levert i tidet og laget holder seg sammen\n")
-else sak in [("b", "b", "b"), ("b", "b", "a"), ("a", "b", "b"), ("a", "b", "a")]:
+elif sak in [("b", "b", "b"), ("b", "b", "a"), ("a", "b", "b"), ("a", "b", "a")]:
     print ("\n Du valgte, som prosjektleder, å ta beslutninger som førte til at prosjektet ble levert i tidet, men uro blant medlemmer innad i laget fremdeles var tilstedet og irritasjon bygges\n")
 
 
