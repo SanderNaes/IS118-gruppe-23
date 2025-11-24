@@ -1,6 +1,8 @@
 #Tekst som brukes i historien
-Intro_tekst = """I ett av møtene merker Erling at teamet har begynt å dele seg inn i to grupper som ikke kommuniserer like godt, spesielt Silje og Sivert. 
-Han vil gjerne stoppe konflikten før den blir mer personlig enn det den allerede er. For å gjøre dette ser han tre muligheter: 
+Intro_tekst = """I ett av møtene merker Erling at teamet har begynt å dele seg inn i to grupper
+som ikke kommuniserer like godt, spesielt Silje og Sivert. 
+Han vil gjerne stoppe konflikten før den blir mer personlig enn det den allerede er.
+For å gjøre dette ser han tre muligheter: 
 """
 Intro_tekst_alternativ_1 = """Han kan ha individuelle samtaler med alle i teamet, spesielt Sivert og Silje,
 om hva de synes om saken og hvordan komme til et kompromiss eller om de kan overbevises.
@@ -12,16 +14,19 @@ Etter Erling presenterer dette for Sivert er han overbevist og går med på idee
 Intro_tekst_alternativ_2 = """Han kan overlate saken til HR og håper de kan komme frem til en nøytral løsning.
 """
 Intro_tekst_alternativ_2_resultat = """HR prøver å mediere mellom sidene, men de klarer ikke å komme til enighet mellom gruppa. 
-Fordi dette skjer i bakgrunnen fra Erling sitt syn fortsetter prosjektet videre, og han tror HR vil klare å takle det før det blir for sent. 
-Siden hver side er for sikker på egen løsning klarer ikke HR å finne løsning før det er for sent til å implementere inn i første prototype.
+Fordi dette skjer i bakgrunnen, fra Erling sitt syn, fortsetter prosjektet videre
+og tror derfor HR vil klare å takle det før det blir for sent. 
+Siden hver side er for sikker på egen løsning klarer ikke HR å finne løsning,
+før det er for sent til å implementere inn i første prototype.
 """
 Hamdi_og_Jabir_tekst = """Etter å ha tatt en avgjørelse angående Silje og Siverts konflikt
-vil Erling gjerne at Hamdi og Jabir skal kunne komme frem til en løsning for deltakelse istedenfor å begge stå på sitt. Her ser han to muligheter:
+vil Erling gjerne at Hamdi og Jabir skal kunne komme frem til en løsning for deltakelse istedenfor at begge står på sitt.
+Her ser han to muligheter:
 """
 Hamdi_og_Jabir_tekst_alternativ_1 = """Han kan ta initiativ og sette opp et møte slik at begge kan presentere sitt synspunkt og teamet kan ta en avgjørelse.
 """
 Hamdi_og_Jabir_tekst_alternativ_1_resultat = """Både Hamdi og Jabir presenterer løsningen sin og fordelene de har. 
-Halvparten av teamet ender opp med å tro på Hamdi sin idé og andre halvparten går for Jabir sin. 
+Halvparten av teamet ender opp med å tro på Hamdi sin idé, mens den andre halvparten velger å tro på Jabir sin. 
 På grunn av dette må Erling ta et valg på hvilket system som skal brukes ettersom han er den bestemmende stemmen.
 """
 Hamdi_og_Jabir_tekst_alternativ_2 = """Han kan avvente og håpe at Hamdi og Jabir kommer frem til en løsning på egenhånd.
@@ -31,7 +36,8 @@ Når prosjektet nærmer seg deadlinen for første prototype er de fremdeles ikke
 """
 Møte_tekst_Hamdi_og_Jabir = """Erling er usikker på hva han skal velge. Jabir sin løsning høres ut som den har høyere potensial, 
 men han er ikke sikker på om de kan få det til å gå an, ikke minst innenfor tidsfristen og budsjettet. 
-Hamdi sin løsning er mer realistisk, men er mindre brukervennlig og kan møte problemer i fremtiden ved at systemet ikke oppnår målene som håpet. 
+Hamdi sin løsning er mer realistisk, men er mindre brukervennlig og kan
+møte problemer i fremtiden ved at systemet ikke oppnår målene som håpet. 
 Men en av disse må han velge, siden han ikke ser noen alternativer eller kompromiss:
 """
 Møte_tekst_Hamdi_og_Jabir_alternativ_1 = """Han velger Jabir sin løsning for et mer åpent system.
@@ -41,7 +47,8 @@ selv om første prototypen kanskje må fuske litt med presentasjonen av den for 
 """
 Møte_tekst_Hamdi_og_Jabir_alternativ_2 = """Han velger Hamdi sin løsning for et mer kontrollert system.
 """
-Møte_tekst_Hamdi_og_Jabir_alternativ_2_resultat = """Erling velger Hamdi sin løsning siden det er ikke evig budsjett og det er relativt kort tid til første prototype. 
+Møte_tekst_Hamdi_og_Jabir_alternativ_2_resultat = """Erling velger Hamdi sin løsning ettersom at budsjettet er stramt og
+det er relativt kort tid til første prototype skal vises. 
 Evalutorene er fornøyd med prototypen, men ikke begeistret.
 """
 Vente_tekst_Hamdi_og_Jabir = """Erling merker at å vente på at Hamdi og Jabir blir enige om en løsning ikke går. 
@@ -59,8 +66,10 @@ Det er ikke kommet frem til en løsning før deadlinen til første prototype.
 """
 Beste_utfall = """Etter noen krevende uker med arbeid og uenigheter ble prototypen endelig levert. 
 Teamet klarte å samle seg sammen da som fristen nærmet seg. De klarte å opprettholde en åpen dialog med hverandre, 
-og i tillegg så greide de å jobbe over de største uenighetene. Etterhvert gjennom arbeidet greide teamet å forstå hverandre bedre, 
-stemningen ble med det roligere og mer positiv. Selv om noen små uenigheter fortsatt lå i bakgrunnen så følte teamet at de var på bedringens vei, 
+og i tillegg så greide de å jobbe over de største uenighetene.
+Etterhvert gjennom arbeidet greide teamet å forstå hverandre bedre, 
+stemningen ble med det roligere og mer positiv.
+Selv om noen små uenigheter fortsatt lå i bakgrunnen så følte teamet at de var på bedringens vei, 
 kommunikasjonen ble styrket og moralen i teamet ble bedre.
 """
 Bra_utfall = """Den beste løsningen, som Erling ser det, er å sette opp et møte for Hamdi og Jabir, 
@@ -68,12 +77,17 @@ hvor de kan snakke om sine løsninger seg i mellom og deretter gjøre en felles 
 Begge presenterer ideene til Erling på en positiv måte, og Erling får fram poenget med å diskutere hvor viktig det er å jobbe i et team. 
 
 Erling foreslår også et kompromiss som går som følgende: At det burde være en versjon av Hamdi sin løsning, 
-i tillegg til viktige elementer fra Jabir sitt forslag. Dette er noe laget går med på, som gjør at det oppstår bedre samarbeid, økt motivasjon og suksess.
+i tillegg til viktige elementer fra Jabir sitt forslag.
+Dette er noe laget går med på, som gjør at det oppstår bedre samarbeid, økt motivasjon og suksess.
 """
-Verste_utfall = """Etter at Erling tok sine valg med hjelp av HR og ikke klarte å løse konflikten mellom Jabir og Hamdi, ble det dårlig lagmoral i gruppen. 
-Gruppen hadde ingen koordinasjon på hvordan de skulle jobbe videre og de stolte ikke på Erling til å kunne ta de riktige valgene for gruppen, 
-så han mistet sin autoritet over dem siden de ble ulydige. Når prototypen skulle presenteres for kommunen så hadde de ikke en ferdigstilt prototype å presentere. 
-Kommunen ble svært misfornøyd og avsluttet prosjektet hvor alle mistet jobben sin. Kommunen bestemte seg for å ansette en ny prosjektleder som skulle finne seg nye kandidater.
+Verste_utfall = """Etter Erling tok sine valg med hjelp av HR og ikke klarte å løse konflikten mellom Jabir og Hamdi,
+ble det dårlig lagmoral i gruppen. 
+Gruppen hadde ingen koordinasjon på hvordan de skulle jobbe videre
+og stolte ikke på Erling til å kunne ta de riktige valgene for gruppen, 
+han mistet autoritet sin, som førte til at de ble ulydige.
+Når prototypen skulle presenteres for kommunen så hadde de ikke en ferdigstilt prototype å presentere. 
+Kommunen ble svært misfornøyd og avsluttet prosjektet hvor alle mistet jobben sin.
+Kommunen bestemte seg for å ansette en ny prosjektleder som skulle finne seg nye kandidater.
 """
 
 
